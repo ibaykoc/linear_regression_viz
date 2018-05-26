@@ -1,8 +1,10 @@
 
 # Linear Regression Visualizer
 
-Visualize linear regression with the ability to put the data on the go with ajust a single click
+Visualize linear regression with the ability to put the data on the go with just a single click
+
 ![giphy](https://media.giphy.com/media/ZOizGky8vQ4RPItKjZ/giphy.gif)
+
 ## Authors
 
 * **Mochammad Iqbal**
