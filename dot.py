@@ -5,7 +5,7 @@ class Dot:
         self.radius = radius
         canvas.create_oval(
             x - radius,
-            y - radius,
+            500 - y - radius,
             x + radius,
-            y + radius,
+            500 - y + radius,
             fill="white")
